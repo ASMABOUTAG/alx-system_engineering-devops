@@ -11,6 +11,6 @@ The readme of this project, updated with every task, it will describe what each 
 #9-firstdirdeletion: delete the directory /tmp/my_first_directory.
 #10-back:change the work directory to the previous one.
 #11-lists:list all files in long format in the current, current's parent and /boot directories.
-#12-file_type:
-#13-symbolic_link:
-#14-copy_html:
+#12-file_type: display the type of file /tmp/iamafile.
+#13-symbolic_link: create a symbolic link of /bin/ls.
+#14-copy_html: copy all the html file in the current directory to it's parent directory, updated if existed.
