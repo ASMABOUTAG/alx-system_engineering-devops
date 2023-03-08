@@ -5,8 +5,8 @@ The readme of this project, updated with every task, it will describe what each 
 #3-listfiles: Display current directory contents in a long format.
 #4-listmorefiles: Display current directory contents even hidden files in a long format.
 #5-listfilesdigitonly: Display current directory content even the hidden files with user and group IDsdisplayed numerically. 
-#6-firstdirectory: 
-#7-movethatfile:
+#6-firstdirectory: create a directory in /tmp/ 
+#7-movethatfile: move the betty directory to /tmp/My_first_directory
 #8-firstdelete:
 #9-firstdirdeletion:
 #10-back:
