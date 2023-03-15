@@ -1,6 +1,8 @@
-#this is the readme of this project.
+# this is the readme of this project.
  the tasks are:
-#mandatory 
+
+## mandatory 
+
 * Task 0 : Create a script that creates an alias, Name: ls and Value: rm *;(0-alias)
 * Task 1 : Create a script that prints hello user, where user is the current Linux user; (1-hello_you )
 * Task 2 : Add /action to the PATH. /action should be the last directory the shell looks into when looking for a program.;(2-path)
@@ -17,7 +19,9 @@
 
 * Task 12 : Create a script that prints all possible combinations of two letters, except oo. the letters are in lower cases.
 * Task 13 :Write a script that prints a number with two decimal places, followed by a new line,the number will be stored in the environment variable NUM.
-#advanced
+
+## advanced
+
 * Task 14 : Write a script that converts a number from base 10 to base 16, (advanced #1)
    1. The number in base 10 is stored in the environment variable DECIMAL
    2. The script should display the number in base 16, followed by a new line.
